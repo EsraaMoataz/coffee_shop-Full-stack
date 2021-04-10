@@ -33,3 +33,4 @@ From the frontend folder run the following commands to start the client:
 
 By default, the frontend run on localhost `http://localhost:8100`
 Note:if the frontend doesn't work after command `ionic serve` try to download node-sass (version 4)
+
